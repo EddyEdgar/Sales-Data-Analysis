@@ -55,7 +55,7 @@ Top customers in each region (Bar Chart)
 Sales by Region (Pie Chart)
 Profit by Sub-category (Bar Chart)
 
-View Dashboard on Tableau Public https://public.tableau.com/app/profile/best.dolce/vizzes
+View Dashboard on Tableau Public https://public.tableau.com/views/SuperstoreSalesDashboard_17466127429820/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
